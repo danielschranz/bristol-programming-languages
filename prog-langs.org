@@ -1,0 +1,6 @@
+* Programming Languages
+** Fortran
+*** generic
+**** strongly typed
+**** compiled
+***
